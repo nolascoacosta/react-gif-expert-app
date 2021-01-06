@@ -1,5 +1,4 @@
 # Getting Started with Create React App
-# ZkfY26i3QMA7OQe0hShz2C6Mwdmc9X73
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
